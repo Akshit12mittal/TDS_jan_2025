@@ -1,7 +1,7 @@
 # Tools in Data Science – Jan 2025 (IITM BS Degree)
 
 > _"This course isn’t for the faint-hearted—it’s for the brave, caffeinated, and slightly unhinged."_  
-> _Average score: 43/100. My score: 84/100 (Top 0.04%)_
+> _Average score: 43/100. My score: 84/100 (Top 2.04%)_
 
 Welcome to the GitHub repository for **TDS (Tools in Data Science)** — one of the most intensive and rewarding courses from the **IIT Madras BS Degree Program**.
 
