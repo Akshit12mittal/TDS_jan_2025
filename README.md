@@ -19,7 +19,7 @@ This repo contains my solutions for:
 **Credits:** 3 (feels like 30)  
 **Institution:** IIT Madras BS in Data Science & Applications
 
-This course is a **full-stack data science bootcamp** disguised as a 3-credit elective. Over the span of just 3 months, we built, deployed, embedded, scraped, tunneled, visualized, and occasionally cried.
+This course is a **full-stack data science bootcamp** disguised as a 3-credit course. Over the span of just 3 months, we built, deployed, embedded, scraped, tunneled, visualized, and occasionally cried.
 
 ### Topics Covered
 
