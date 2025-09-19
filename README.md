@@ -44,9 +44,7 @@ This course is a **full-stack data science bootcamp** disguised as a 3-credit co
 
 ---
 
-##  My Contributions
-
-This repo includes:
+## This repo includes:
 -  Colab notebooks for each graded assignment
 -  Colab notebooks for Project 1
 
@@ -56,13 +54,6 @@ This repo includes:
 
 This course officially allows **ChatGPT** and **collaboration**.  
 Unofficially, my cat helped me troubleshoot Docker.
-
----
-
-## 🙌 Credits
-
-Massive thanks to the friends and peers who made this course survivable:
-**Vinil, Sujay, Lakshay, RAO, Aarush, Harsh, Digvijaysinh, Akash, Ripusudan, Shouvik, Sunay**, and everyone else who helped along the way.
 
 ---
 
